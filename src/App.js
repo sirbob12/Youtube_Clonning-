@@ -1,10 +1,13 @@
+import Header from '../src/components/Header/Header'
+import Hero from '../src/components/Hero/Hero'
+
+import './app.css'
 
 function App() {
   return (
     <div className="App">
-      <section>
-        <h1>My name is Kings</h1>
-      </section>
+      <Header/>
+      <Hero/>
     </div>
   );
 }
