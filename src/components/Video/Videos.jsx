@@ -4,7 +4,7 @@ import './Videos.scss'
 const Videos = () => {
   return (
     <section className="videos">
-        <h1 className="videos__heading">This is the videos section</h1>
+        <h1 className="videos__heading">Recommended Videos</h1>
     </section>
   )
 }
